@@ -38,6 +38,10 @@ social:
     share_title: ?t=
     share_link: "&amp;u="
 
+  - icon: instagram
+    url:  https://instagram.com/smaldi631
+    desc: Follow me on instagram
+
 #  - icon:	github
 #    url:	https://github.com/dirkfabisch
 #    desc:	Fork me on github
